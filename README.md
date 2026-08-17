@@ -40,7 +40,7 @@ Desarrollo de aplicaciones móviles en Flutter para distintos clientes, varias p
 **Desarrollador QA / Automatización** — Scalecoding, Argentina · Ene 2020 – Jun 2020 \\
 Pruebas automatizadas end-to-end con Cypress para proyectos de clientes.
 
-**Desarrollador C#** — PL Software, Río Cuarto · Abr 2019 – Dic 2019 \\
+**Desarrollador C#** — PL Software, Río Cuarto · Abr 2019 – Dic 2019\\
 Soluciones de software a medida para comercios locales, incluyendo casas de repuestos automotrices y retail.
 
 ---
