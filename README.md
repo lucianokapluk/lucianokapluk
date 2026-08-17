@@ -28,16 +28,16 @@ Actualmente abierto a nuevas oportunidades como Flutter Developer.
 
 ## 💼 Experiencia
 
-**Desarrollador Flutter** — Zafirus · Ago 2025 – Ago 2026
+**Desarrollador Flutter** — Zafirus · Ago 2025 – Ago 2026<br/>
 Participé desde el arranque en la app de CrediClub, una fintech de créditos: definí toda la arquitectura del proyecto (Clean Architecture) y construí el design system completo. Coordiné el squad de Transferencias y Tarjetas de Crédito/Débito, liderando el desarrollo end-to-end de esas funcionalidades. Equipos ágiles bajo Scrum y Kanban.
 
-**Desarrollador Flutter · Freelance** — Roda Rides, Venezuela · Ago 2025 – Jul 2026
+**Desarrollador Flutter · Freelance** — Roda Rides, Venezuela · Ago 2025 – Jul 2026<br/>
 Desarrollé una plataforma de ride-hailing para una ciudad de Venezuela: dos apps Flutter para iOS y Android, una para conductores y otra para pasajeros. Implementé mapas, sockets para seguimiento de viajes en tiempo real, Firebase Auth y Firebase Messaging. Bloc para manejo de estado y CodeMagic para automatización de builds y CI/CD.
 
-**Desarrollador Flutter** — iMCreate, Nueva Jersey · Jul 2020 – Jul 2025
+**Desarrollador Flutter** — iMCreate, Nueva Jersey · Jul 2020 – Jul 2025<br/>
 Desarrollo de aplicaciones móviles en Flutter para distintos clientes, varias publicadas en Google Play y App Store. Integré APIs REST, Firebase, autenticación, pagos con Stripe, mapas y notificaciones push sobre una organización de código basada en Clean Architecture. También trabajé en el mantenimiento y evolución de apps en producción, y en la configuración de CI/CD y publicación de versiones.
 
-**Desarrollador QA / Automatización** — Scalecoding, Argentina · Ene 2020 – Jun 2020 \\
+**Desarrollador QA / Automatización** — Scalecoding, Argentina · Ene 2020 – Jun 2020<br/>
 Pruebas automatizadas end-to-end con Cypress para proyectos de clientes.
 
 **Desarrollador C#** — PL Software, Río Cuarto · Abr 2019 – Dic 2019<br/>
